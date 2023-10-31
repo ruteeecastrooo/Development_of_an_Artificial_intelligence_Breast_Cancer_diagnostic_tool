@@ -1,0 +1,8 @@
+Genes correspondentes encontrados:
+MUC1 corresponde a MUC13 com valor 2.3408407575643952
+MIA corresponde a MIA2 com valor 2.060023391730347
+MUC1 corresponde a MUC12 com valor 1.9810106017938751
+ANLN corresponde a ANLN com valor 1.9372623316634825
+NUF2 corresponde a NUF2 com valor 1.9175495630334678
+PGR corresponde a PGRMC2 com valor 1.864861794330793
+Total de genes correspondentes: 6
